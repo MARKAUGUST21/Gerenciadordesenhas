@@ -36,5 +36,5 @@ texto_orientacao.grid(column=0, row=0)
 botao = Button(janela, text= "Gerar senhas criptografadas", command= chave)
 botao.grid(column=0, row=1)
 
-
+        
 janela.mainloop()
